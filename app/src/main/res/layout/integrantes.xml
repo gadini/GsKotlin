@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewIntegrantes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Integrantes 3SIT  "
+        android:textSize="50sp"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textViewGustavo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gustavo Alves Rocha Gadini RM95909"
+        android:textSize="20sp"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textViewLuigi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Luigi Moreira Nogueira RM94694"
+        android:textSize="20sp"
+        android:textColor="#000000" />
+
+</LinearLayout>
